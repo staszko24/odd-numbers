@@ -7,8 +7,8 @@ function findOddNumbers(v) {
     return false;
 }
 
-let newnumbers = numbers.filter(v => findOddNumbers(v));
+let newNumbers = numbers.filter(v => findOddNumbers(v));
 
-console.log(newnumbers);
+console.log(newNumbers);
 
 
